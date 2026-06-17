@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/diegohenriqueads" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:diegohasbr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
@@ -57,6 +57,5 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohenriqueads&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohenriqueads&layout=compact&langs_count=7&theme=dark" />
 </p>
