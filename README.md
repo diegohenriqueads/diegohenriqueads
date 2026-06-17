@@ -5,7 +5,7 @@
 
 <br>
 
-### 🚀 Sobre Mim
+### Sobre Mim
 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor com trajetória iniciada aos 9 anos de idade. Tenho experiência prática na criação de plataformas web comerciais, automações e projetos full-stack estruturados.
 
 ---
@@ -57,6 +57,6 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
 
 ### 📊 Estatísticas
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegohenriqueads&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohenriqueads&layout=compact&langs_count=7&theme=dark" />
 </p>
