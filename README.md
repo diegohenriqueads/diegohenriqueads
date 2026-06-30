@@ -10,7 +10,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
 
 ---
 
-### 💻 Linguagens de Programação
+###  Linguagens de Programação
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Java_POO-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java POO" />
@@ -24,7 +24,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
   <img src="https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
 </p>
 
-### 🛠️ Frameworks e Tecnologias Web
+###  Frameworks e Tecnologias Web
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -36,7 +36,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### ⚙️ Sistemas Operacionais & Infraestrutura
+###  Sistemas Operacionais & Infraestrutura
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
@@ -45,7 +45,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-### 🎨 Design & Multimídia
+###  Design & Multimídia
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
@@ -54,8 +54,3 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
 </p>
 
 ---
-
-### 📊 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohenriqueads&layout=compact&langs_count=7&theme=dark" />
-</p>
