@@ -24,7 +24,6 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
 
 ###  Frameworks e Tecnologias Web
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -36,7 +35,6 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
 
 ###  Sistemas Operacionais & Infraestrutura
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Linux_Mint-9CF122?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
