@@ -11,7 +11,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor co
 ###  Linguagens de Programação
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Java_POO-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java POO" />
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/PHP_POO-8892BF?style=for-the-badge&logo=php&logoColor=white" alt="PHP POO" />
