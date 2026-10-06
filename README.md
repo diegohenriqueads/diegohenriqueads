@@ -100,4 +100,4 @@ O projeto é utilizado em um cenário real de prospecção comercial e continua 
 
 ---
 
-📫 **Contato:** [diegohasbr@gmail.com](mailto:diegohasbr@gmail.com)
+📫 **Contato:** [diegocloudprospecta@gmail.com](mailto:diegocloudprospecta@gmail.com)
